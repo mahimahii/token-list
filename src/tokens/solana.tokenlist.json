@@ -19989,7 +19989,22 @@
       "extensions": {
         "website": "https://dogesol.com/",
         "twitter": "https://twitter.com/Doge_Solana"
+      },
+          {
+      "chainId": 101,
+      "address": "8f9s1sUmzUbVZMoMh6bufMueYH1u4BJSM57RCEvuVmFp",
+      "symbol": "TRUE",
+      "name": "TrueSight",
+      "decimals": 9,
+      "logoURI": "https://i.ibb.co/pKTWrwP/true.jpg",
+      "tags": [
+        "utility-token",
+        "capital-token"
+      ],
+      "extensions": {
+        "website": "https://www.truesightcapital.com"
       }
+    }
     }
 	,
     {
