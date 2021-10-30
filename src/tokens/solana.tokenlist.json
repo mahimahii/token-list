@@ -20405,8 +20405,9 @@
     "patch": 2
   },
   "chainId": 101,
-  "address": "2kMjMxSLLY3RP1Svg8THnoiAfnaScAemGUhVRF9bYcC7",
-  "symbol": "BPCoin",
+  "address": "8f9s1sUmzUbVZMoMh6bufMueYH1u4BJSM57RCEvuVmFp",
+  "symbol": "True",
+  "name": "TrueSight",
   "decimals": 9,
   "extensions": {
     "website": "https://bricks.properties",
